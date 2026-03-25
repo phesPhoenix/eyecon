@@ -1,0 +1,4 @@
+*.task
+venv/
+*.pyc
+__pycache__/
